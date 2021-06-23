@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\juan_\Documents\USAC\4.Cuarto Año\1. SEPTIMO SEMESTRE\SISTEMAS DE BASES DE DATOS 1\LAB\-BASES1-Proyecto2\front\src\polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! C:\Users\juan_\Documents\USAC\4.Cuarto Año\Octavo Semestre\Analisis Y dise;o de sistemas 1\Lab\Proyectos\New folder\AYD1_Proyecto1_8\front2\src\polyfills.ts */"hN/g");
 
 
 /***/ }),
